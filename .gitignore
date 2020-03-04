@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TestResults
+/WithingsECG.API/bin
+/WithingsECG.API/obj
+/WithingsECG.API.Test/bin
+/WithingsECG.API.Test/obj
